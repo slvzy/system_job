@@ -124,7 +124,7 @@
           <entry key="conf" value="48" />
           <entry key="go" value="9" />
           <entry key="html" value="9" />
-          <entry key="md" value="84" />
+          <entry key="md" value="85" />
           <entry key="sh" value="110" />
         </counts>
       </usages-collector>
@@ -133,7 +133,7 @@
           <entry key="Bash" value="80" />
           <entry key="Go" value="9" />
           <entry key="HTML" value="9" />
-          <entry key="Markdown" value="84" />
+          <entry key="Markdown" value="85" />
           <entry key="PLAIN_TEXT" value="82" />
         </counts>
       </usages-collector>
@@ -157,8 +157,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="816">
-                <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+              <first_editor relative-caret-position="663">
+                <caret line="42" column="88" selection-start-line="42" selection-start-column="88" selection-end-line="42" selection-end-column="88" />
               </first_editor>
               <second_editor />
             </state>
@@ -703,8 +703,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="816">
-            <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <first_editor relative-caret-position="663">
+            <caret line="42" column="88" selection-start-line="42" selection-start-column="88" selection-end-line="42" selection-end-column="88" />
           </first_editor>
           <second_editor />
         </state>

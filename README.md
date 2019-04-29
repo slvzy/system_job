@@ -40,7 +40,7 @@ V1.x版本是一个简单的定时任务管理系统，进入V1.0 ：https://git
 ![image](https://github.com/bobac-small/system_job/blob/master/assets/screenshot/12-role_add.png?raw=true "github")
 ![image](https://github.com/bobac-small/system_job/blob/master/assets/screenshot/13-user.png?raw=true "github")
 ![image](https://github.com/bobac-small/system_job/blob/master/assets/screenshot/14-user_add.png?raw=true "github")
-![image](https://github.com/bobac-small/system_job/blob/master/assets/screenshot/15-taks_log.png?raw=true "github")
+![image](https://github.com/bobac-small/system_job/blob/master/assets/screenshot/15-task_log.png?raw=true "github")
 
 
 安装方法
