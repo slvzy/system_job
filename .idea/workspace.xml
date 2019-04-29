@@ -124,7 +124,7 @@
           <entry key="conf" value="48" />
           <entry key="go" value="9" />
           <entry key="html" value="9" />
-          <entry key="md" value="85" />
+          <entry key="md" value="98" />
           <entry key="sh" value="110" />
         </counts>
       </usages-collector>
@@ -133,7 +133,7 @@
           <entry key="Bash" value="80" />
           <entry key="Go" value="9" />
           <entry key="HTML" value="9" />
-          <entry key="Markdown" value="85" />
+          <entry key="Markdown" value="98" />
           <entry key="PLAIN_TEXT" value="82" />
         </counts>
       </usages-collector>
@@ -157,8 +157,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="493">
-                <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+              <first_editor relative-caret-position="-2854">
+                <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
               </first_editor>
               <second_editor />
             </state>
@@ -703,8 +703,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="493">
-            <caret line="32" column="55" selection-start-line="32" selection-start-column="55" selection-end-line="32" selection-end-column="55" />
+          <first_editor relative-caret-position="-2854">
+            <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
           </first_editor>
           <second_editor />
         </state>
