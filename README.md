@@ -7,7 +7,7 @@ system_Job是一款定时任务可视化的、多人多权限的管理系统，�
 可于生产环境。
 
 
-V1.x版本是一个简单的定时任务管理系统，进入V1.0 ：https://github.com/bobac-small/system_jo
+V1.x版本是一个简单的定时任务管理系统，进入V1.0 ：https://github.com/bobac-small/system_job
 相对于V1.x版本，V2.0新增以下功能和特性：
 
 - 1、全新UI,基于LayUI2.3构建全新页面，后端模板手工搭建，让操作更加人性化。后台模板地址：https://github.com/george518/PP_admin-template
