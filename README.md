@@ -30,7 +30,7 @@ V1.x版本是一个简单的定时任务管理系统，进入V1.0 ：https://git
 先看效果
 ----
 ![image](https://github.com/bobac-small/system_job/blob/master/assets/screenshot/1-index.png?raw=true "github")
-![image](https://github.com/bobac-small/system_job/blobblob/master/assets/screenshot/2-task.png?raw=true "github")
+![image](https://github.com/bobac-small/system_job/blob/master/assets/screenshot/2-task.png?raw=true "github")
 ![image](https://github.com/bobac-small/system_job/blob/master/assets/screenshot/3-task_detail.png?raw=true "github")
 ![image](https://github.com/bobac-small/system_job/blob/master/assets/screenshot/5-task_group.png?raw=true "github")
 ![image](https://github.com/bobac-small/system_job/blob/master/assets/screenshot/6-server_group.png?raw=true "github")
